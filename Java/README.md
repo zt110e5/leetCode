@@ -1,10 +1,10 @@
 ## LeetCode题解Java版导航
 
-###Easy
+### Easy
 
 [Valid Parentheses:有效括号][1]
 
-###Medium
+### Medium
   TODO
 
 
